@@ -190,7 +190,7 @@ async def auto_filter(bot: Client, update: Message):
 
                 else:
                     ibuttons[-1].append(
-                        InlineKeyboardButton(f"⚜ {chat_name} ⚜", url=invite_link)
+                        InlineKeyboardButton(f"⚜ {Join In My Channel} ⚜", url=https://t.me/new_movies_HD_movies)
                     )
                 
             for x in ibuttons:
